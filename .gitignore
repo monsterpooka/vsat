@@ -1,0 +1,7 @@
+/realtime-quiz/vendor
+/realtime-quiz/node_modules
+/realtime-quiz/Homestead.yaml
+/realtime-quiz/Homestead.json
+/realtime-quiz/.env
+/realtime-quiz/.idea
+/realtime-quiz/public/games
